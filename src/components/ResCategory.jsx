@@ -18,7 +18,7 @@ const ResCategory = ({ data }) => {
             </div>
             {showItem && <ItemList items={data.itemCards} />}
          </div>}
-      </div> +
+      </div> 
   )
 }
 
